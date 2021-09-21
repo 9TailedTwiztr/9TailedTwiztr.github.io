@@ -89,11 +89,3 @@
     color:#13B94A !important; 
     font-weight: 700;
 }
-
-/*custom bg*/
-:root {
-    --background-image: url('https://i.insider.com/602ee9ced3ad27001837f2ac');
-    --opacity: .9;
-}
-
-:root{background:var(--background-image) center/cover no-repeat}body{opacity:var(--opacity)}
