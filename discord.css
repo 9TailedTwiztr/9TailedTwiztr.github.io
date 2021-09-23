@@ -89,4 +89,17 @@
     color:#13B94A !important; 
     font-weight: 700;
 }
-
+/*rounded menu*/
+.menu-3sdvDG, .item-1tOPte {
+  border-radius: 30px;
+}
+.bar-30k2ka {
+  border-radius: 30px;
+}
+/*rounded square avatars*/
+.avatar-1BDn8e {
+    border-radius: 35%;
+}
+.avatarSmall-1PJoGO {
+  border-radius: 35%;
+}
