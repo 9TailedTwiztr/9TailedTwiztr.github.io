@@ -144,15 +144,17 @@
 /* LOL */
 .connectedAccountIcon-3_EQqg[src="/assets/a0e2182e843745c73f7f3c8325a05ea9.png"] ~ div::before {--border-color: #CEA146;}
 
-/*Custom UP, Tail*/
-#app-mount [data-user-id="607576519572848641"].userPopout-xaxa6l {background-color: rgba(0, 0, 0, 0.158);background-image: url(https://i.imgur.com/RTkmWWX.png);width: 700px!important;height: 359px!important;}
-#app-mount [data-user-id="607576519572848641"] .bodyInnerWrapper-26fQXj {background: transparent;}
-#app-mount [data-user-id="607576519572848641"] .banner-2QYc2d {background: transparent!important;}.divider-ewBQKj {display: none;}
-#app-mount [data-user-id="607576519572848641"] .bannerOverlayPopout-1clJ34, .bannerOverlay-1uIerX  {width: 900px!important;background-color: transparent;}
-#app-mount [data-user-id="607576519572848641"] .textarea-2r0oV8  {width: 900px!important;background: transparent;}
-#app-mount [data-user-id="607576519572848641"] .role-2irmRk {background-color: transparent;}
-#app-mount [data-user-id="607576519572848641"] .avatar-37jOim {border: 6px solid transparent;background-color: transparent;}
-#app-mount [data-user-id="607576519572848641"] .colorLink-2vG20E {display: none;}
-#app-mount [data-user-id="607576519572848641"] .nickname-3M3Jfa, .headerTagWithNickname-3l_x6x, .customStatus-oN4ZZY, .aboutMeSection-1Fw5Ia, .bodyTitle-1ySSKn, .headerTopWithCustomStatus-1DHAjX{text-align: center!important;}
-#app-mount [data-user-id="607576519572848641"] .avatarPositionNormal-aZjAsn {margin-left: 290px;}
-#app-mount [data-user-id="607576519572848641"] .aboutMeTitle-1IYtPE {margin-left: 300px;}
+
+
+/*Custom UP, Universal for Goosemod*/
+.userPopout-xaxa6l {background-color: rgba(0, 0, 0, 0.158);background-image: url(https://i.imgur.com/RTkmWWX.png);width: 700px!important;height: 359px!important;}
+.bodyInnerWrapper-26fQXj {background: transparent;}
+.banner-2QYc2d {background: transparent!important;}.divider-ewBQKj {display: none;}
+.bannerOverlayPopout-1clJ34, .bannerOverlay-1uIerX  {width: 900px!important;background-color: transparent;}
+.textarea-2r0oV8  {width: 900px!important;background: transparent;}
+.role-2irmRk {background-color: transparent;}
+.avatar-37jOim {border: 6px solid transparent;background-color: transparent;}
+.colorLink-2vG20E {display: none;}
+.nickname-3M3Jfa, .headerTagWithNickname-3l_x6x, .customStatus-oN4ZZY, .aboutMeSection-1Fw5Ia, .bodyTitle-1ySSKn, .headerTopWithCustomStatus-1DHAjX{text-align: center!important;}
+.avatarPositionNormal-aZjAsn {margin-left: 290px;}
+.aboutMeTitle-1IYtPE {margin-left: 300px;}
